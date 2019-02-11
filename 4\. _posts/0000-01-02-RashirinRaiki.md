@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Meme: "You've been G'nomed"
 Use the left arrow to go back!
